@@ -1,2 +1,1 @@
-# 3d-models
-designed the 3d models with  some online models
+# 3D Model of feeder and optimized Fernace
